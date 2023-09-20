@@ -1,0 +1,27 @@
+{
+	"name": "Mike", 
+	"short_name": "Mike", 
+	"start_url": "/index.html",
+	"theme_color": "#fff",
+	"background_color": "#fff",
+	"display": "standalone",
+	"icons":[
+	  {
+		"src":"mike.jpg",
+		"sizes": "192x192",
+		"type": "image/png"
+	  },
+	  {
+		"src":"mike.jpg",
+		"sizes": "512x512",
+		"type": "image/png"
+	  },
+	  {
+		"src":"mike.jpg",
+		"type": "image/png",
+		"sizes": "192x192",
+		"purpose":"any maskable"
+	  }
+	]
+  
+  }
